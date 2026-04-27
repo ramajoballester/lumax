@@ -16,7 +16,7 @@ La última versión está disponible en la sección de [releases](https://github
 
 ## Ejemplo de uso
 
-El primer paso para llevar a cabo los análisis es crear una base de datos:
+El primer paso para llevar a cabo el análisis es crear una base de datos:
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/ramajoballester/dispocen-gui/main/docs/01.png" alt="Creación de base de datos" width="800">
@@ -40,7 +40,7 @@ El archivo sociológico es opcional. Al añadirlo se debe seleccionar la columna
     <img src="https://raw.githubusercontent.com/ramajoballester/dispocen-gui/main/docs/04.png" alt="Archivo sociológico" width="800">
 </p>
 
-Para realizar el análisis, se selecciona la base de datos, se ajusta el modelo, filtros y parámetros, y se pulsa el botón "Analizar". Si se ha añadido el archivo sociológico, se podrá realizar el análisis segregando por una de sus variables. Una vez analizado, se pueden visualizar los resultados en forma de tablas y gráficos, así como exportarlos a diferentes formatos para un posterior tratamiento o presentación:
+Para realizar el análisis, se selecciona la base de datos, se ajustan el modelo, el filtro, los parámetros y se pulsa el botón "Analizar". Si se ha añadido el archivo sociológico, se podrá realizar el análisis segregando por una de sus variables. Una vez analizado, se pueden visualizar los resultados en forma de tablas y gráficos, así como exportarlos a diferentes formatos para un posterior tratamiento o presentación:
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/ramajoballester/dispocen-gui/main/docs/05.png" alt="Resultados" width="800">
